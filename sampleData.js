@@ -2,26 +2,26 @@ const products = [
   {
     id: '1',
     name: 'Sumsang S22',
-    price: '$900',
-    sales: '23',
+    price: '$750',
+    sales: '20',
   },
   {
     id: '2',
     name: 'twoplus 5t',
     price: '$400',
-    sales: '450',
+    sales: '30',
   },
   {
     id: '3',
     name: 'Apal 4 pro max',
-    price: '$1100',
-    sales: '12',
+    price: '$1500',
+    sales: '15',
   },
   {
     id: '4',
     name: 'Me note 10i',
     price: '$150',
-    sales: '4033',
+    sales: '120',
   },
   {
     id: '5',
@@ -39,13 +39,13 @@ const products = [
     id: '7',
     name: 'RealI naroz',
     price: '$200',
-    sales: '2300',
+    sales: '230',
   },
   {
     id: '8',
     name: 'RealI 5',
     price: '$120',
-    sales: '2000',
+    sales: '50',
   },
   {
     id: '9',
@@ -75,13 +75,13 @@ const products = [
     id: '14',
     name: 'pexel 5a',
     price: '$320',
-    sales: '80',
+    sales: '20',
   },
   {
     id: '15',
     name: 'pexel 4 XL',
     price: '$120',
-    sales: '50',
+    sales: '15',
   },
 ];
 
@@ -98,7 +98,7 @@ const customers = [
     name: 'Natasha Romanova',
     email: 'blackwidow@gmail.com',
     phone: '223-567-3322',
-    purchase: ['13', '15', '9', '7', '8'],
+    purchase: ['13', '9', '15'],
   },
   {
     id: '3',
