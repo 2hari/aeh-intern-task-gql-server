@@ -30,6 +30,7 @@ const ProductType = new GraphQLObjectType({
     id: { type: GraphQLID },
     name: { type: GraphQLString },
     price: { type: GraphQLString },
+    sales: { type: GraphQLString },
   }),
 });
 
